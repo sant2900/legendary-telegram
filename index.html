@@ -71,11 +71,51 @@
         <p>This platform automatically updates every day with the highest-paying worldwide remote jobs using GitHub Actions.</p>
     </div>
 
-    <div class="jobs-section">
-<div style="text-align: center; color: #94a3b8; padding: 20px;">
+    <div id="jobs-container" class="jobs-section">
+        <div style="text-align: center; color: #94a3b8; padding: 20px;">
             🤖 Automation engine is warming up... First batch of jobs will load shortly!
         </div>
-</div>
+    </div>
+
+    <script>
+        // jobs.json file se data load karne ka dynamic code
+        fetch('jobs.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('JSON file nahi mili, python script check karein.');
+                }
+                return response.json();
+            })
+            .then(jobs => {
+                const container = document.getElementById('jobs-container');
+                if (jobs.length === 0) {
+                    container.innerHTML = '<div style="text-align: center; color: #94a3b8; padding: 20px;">No jobs found today. Checking again soon!</div>';
+                    return;
+                }
+                
+                // Purana loading text hata kar naye job cards lagana
+                container.innerHTML = '';
+                jobs.forEach(job => {
+                    const jobCard = `
+                        <div class="job-card">
+                            <img src="${job.logo || 'https://via.placeholder.com/50'}" alt="Company Logo">
+                            <div class="job-info">
+                                <h3>${job.title}</h3>
+                                <p class="company">${job.company} • ${job.location || 'Remote'}</p>
+                            </div>
+                            <a href="${job.url}" target="_blank" class="apply-btn">Apply Now</a>
+                        </div>
+                    `;
+                    container.innerHTML += jobCard;
+                });
+                
+                // Success confetti celebration
+                confetti();
+            })
+            .catch(error => {
+                console.log('Error loading jobs:', error);
+            });
+    </script>
 
 </body>
 </html>
