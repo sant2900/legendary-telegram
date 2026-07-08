@@ -1,3 +1,40 @@
+import os
+import requests
+
+def send_to_telegram(job_title, company, apply_url):
+    # गिटहब सीक्रेट्स से टोकन और चैट आईडी लेना
+    bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
+    chat_id = os.environ.get('TELEGRAM_CHAT_ID')
+    
+    if not bot_token or not chat_id:
+        print("Telegram credentials missing in secrets!")
+        return
+
+    # एक सुंदर सा मैसेज फॉर्मेट तैयार करना
+    message = (
+        f"🚀 **NEW REMOTE JOB OPENING!**\n\n"
+        f"📌 **Role:** {job_title}\n"
+        f"🏢 **Company:** {company}\n\n"
+        f"👉 **Apply via Global Career Hub (Click Below):**\n"
+        f"🔗 https://sant2900.github.io/legendary-telegram/"
+    )
+    
+    # टेलीग्राम एपीआई को मैसेज भेजना
+    telegram_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    payload = {
+        "chat_id": chat_id,
+        "text": message,
+        "parse_mode": "Markdown"
+    }
+    
+    try:
+        response = requests.post(telegram_url, json=payload)
+        if response.status_code == 200:
+            print(f"Successfully posted to Telegram: {job_title}")
+        else:
+            print(f"Failed to send to Telegram: {response.text}")
+    except Exception as e:
+        print(f"Error sending to Telegram: {e}")
 import json
 import urllib.request
 import re
