@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Career & Tech Automation Hub</title>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --accent-color: #38bdf8;
+            --text-color: #f8fafc;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 800px;
+            width: 100%;
+            padding: 2rem;
+            background: var(--card-bg);
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            border: 1px solid #334155;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 { color: var(--accent-color); font-size: 2.5rem; margin-bottom: 10px; }
+        p { size: 1.2rem; color: #94a3b8; }
+        .status-badge { background: #22c55e; color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.9rem; display: inline-block; margin-bottom: 20px; font-weight: bold; }
+        
+        /* Job Card Styles */
+        .jobs-section { max-width: 800px; width: 100%; display: flex; flex-direction: column; gap: 15px; }
+        .job-card { background: #1e293b; border: 1px solid #334155; padding: 20px; border-radius: 12px; display: flex; align-items: center; justify-content: space-between; text-align: left; gap: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .job-card img { width: 50px; height: 50px; border-radius: 8px; object-fit: cover; }
+        .job-info { flex-grow: 1; }
+        .job-info h3 { margin: 0 0 5px 0; color: #f8fafc; font-size: 1.2rem; }
+        .job-info .company { margin: 0; color: #94a3b8; font-size: 0.95rem; }
+        .apply-btn { background: #3b82f6; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; transition: background 0.2s; font-size: 0.9rem; white-space: nowrap; }
+        .apply-btn:hover { background: #2563eb; }
+        
+        @media (max-width: 600px) {
+            .job-card { flex-direction: column; text-align: center; }
+            .apply-btn { width: 100%; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="status-badge">🚀 Automation Active</div>
+        <h1>Global Career Hub</h1>
+        <p>This platform automatically updates every day with the highest-paying worldwide remote jobs using GitHub Actions.</p>
+    </div>
+
+    <!-- यहाँ बोट अपने आप नई जॉब्स लोड करेगा -->
+    <div class="jobs-section">
+        <!-- JOBS_START -->
+        <div style="text-align: center; color: #94a3b8; padding: 20px;">
+            🤖 Automation engine is warming up... First batch of jobs will load shortly!
+        </div>
+        <!-- JOBS_END -->
+    </div>
+
+</body>
+</html>
