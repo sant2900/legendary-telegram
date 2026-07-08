@@ -5,7 +5,6 @@ import urllib.request
 import re
 
 def send_to_telegram(job_title, company, apply_url):
-    # गिटहब सीक्रेट्स से टोकन और चैट आईडी लेना
     bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
     chat_id = os.environ.get('TELEGRAM_CHAT_ID')
     
@@ -13,7 +12,6 @@ def send_to_telegram(job_title, company, apply_url):
         print("Telegram credentials missing in secrets!")
         return
 
-    # एक सुंदर सा मैसेज फॉर्मेट तैयार करना
     message = (
         f"🚀 **NEW REMOTE JOB OPENING!**\n\n"
         f"📌 **Role:** {job_title}\n"
@@ -22,7 +20,6 @@ def send_to_telegram(job_title, company, apply_url):
         f"🔗 https://sant2900.github.io/legendary-telegram/"
     )
     
-    # टेलीग्राम एपीआई को मैसेज भेजना
     telegram_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     payload = {
         "chat_id": chat_id,
@@ -31,7 +28,8 @@ def send_to_telegram(job_title, company, apply_url):
     }
     
     try:
-        response = requests.post(telegram_url, json=payload)
+        # टेलीग्राम भेजने के लिए 10 सेकंड का timeout
+        response = requests.post(telegram_url, json=payload, timeout=10)
         if response.status_code == 200:
             print(f"Successfully posted to Telegram: {job_title}")
         else:
@@ -41,15 +39,21 @@ def send_to_telegram(job_title, company, apply_url):
 
 print("Fetching latest remote jobs...")
 
-# 1. API से रिमोट जॉब्स का डेटा निकालना (फ्री API)
 url = "https://remoteok.com/api"
-req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+# बढ़िया ब्राउज़र जैसा Headers ताकि API ब्लॉक न करे
+req = urllib.request.Request(
+    url, 
+    headers={
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    }
+)
 
 try:
-    with urllib.request.urlopen(req) as response:
+    # यहाँ timeout=15 जोड़ा है ताकि API अटके तो 15 सेकंड में बंद हो जाए
+    with urllib.request.urlopen(req, timeout=15) as response:
         data = json.loads(response.read().decode())
         
-    # पहले एलिमेंट में लीगल इंफॉर्मेशन होती है, उसे हटाकर सिर्फ जॉब्स लेंगे
     jobs = data[1:6]  # टॉप 5 लेटेस्ट जॉब्स
     
     jobs_html = ""
@@ -60,7 +64,6 @@ try:
         job_url = job.get('url', '#')
         tags = ", ".join(job.get('tags', [])[:3])
         
-        # हर जॉब के लिए सुंदर कार्ड डिजाइन
         jobs_html += f"""
         <div class="job-card">
             <img src="{logo}" alt="{company} Logo" onerror="this.src='https://via.placeholder.com/50?text=Job'">
@@ -72,14 +75,11 @@ try:
         </div>
         """
         
-        # [जादू यहाँ है] हर जॉब को साथ ही साथ टेलीग्राम चैनल पर भी पोस्ट करना
         send_to_telegram(title, company, job_url)
         
-    # 2. index.html फाइल को रीड करना और उसमें जॉब्स को अपडेट करना
     with open("index.html", "r", encoding="utf-8") as f:
         html_content = f.read()
         
-    # पुराना जॉब सेक्शन हटाकर नया सेक्शन डालना
     start_placeholder = "<!-- JOBS_START -->"
     end_placeholder = "<!-- JOBS_END -->"
     
