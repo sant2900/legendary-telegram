@@ -1,5 +1,8 @@
 import os
 import requests
+import json
+import urllib.request
+import re
 
 def send_to_telegram(job_title, company, apply_url):
     # गिटहब सीक्रेट्स से टोकन और चैट आईडी लेना
@@ -35,9 +38,6 @@ def send_to_telegram(job_title, company, apply_url):
             print(f"Failed to send to Telegram: {response.text}")
     except Exception as e:
         print(f"Error sending to Telegram: {e}")
-import json
-import urllib.request
-import re
 
 print("Fetching latest remote jobs...")
 
@@ -72,6 +72,9 @@ try:
         </div>
         """
         
+        # [जादू यहाँ है] हर जॉब को साथ ही साथ टेलीग्राम चैनल पर भी पोस्ट करना
+        send_to_telegram(title, company, job_url)
+        
     # 2. index.html फाइल को रीड करना और उसमें जॉब्स को अपडेट करना
     with open("index.html", "r", encoding="utf-8") as f:
         html_content = f.read()
@@ -88,7 +91,7 @@ try:
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(new_html)
         
-    print("Success: Website updated with latest jobs!")
+    print("Success: Website updated and jobs sent to Telegram!")
 
 except Exception as e:
     print(f"Error fetching jobs: {e}")
