@@ -1,72 +1,72 @@
 [
     {
-        "title": "(Junior-) Projektmanager",
-        "company": "Wiese Dental Beratungs GmbH",
+        "title": "Junior Software Developer - (m/w/d)",
+        "company": "HanseSecure GmbH",
+        "location": "Remote (M\u00fcnchen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-452436",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=H"
+    },
+    {
+        "title": "Influencer Marketing Manager (m/w/d)",
+        "company": "HEILBORN Marketing",
+        "location": "Remote (Hamburg)",
+        "url": "https://www.arbeitnow.com/jobs/companies/heilborn-marketing/influencer-marketing-manager-hamburg-448634",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=H"
+    },
+    {
+        "title": "Senior Recruiter (m/w/d) \u2013 Vollzeit \u00b7 Berlin \u00b7 Hybrid/Remote",
+        "company": "selectry GmbH",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/selectry-gmbh/senior-recruiter-vollzeit-berlin-hybrid-remote-176822",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=s"
+    },
+    {
+        "title": "Founders Associate (Pflicht-Praktikum) (d/w/m)",
+        "company": "Project Bay GmbH",
+        "location": "Remote (Sylt)",
+        "url": "https://www.arbeitnow.com/jobs/companies/project-bay-gmbh/founders-associate-pflicht-praktikum-sylt-330356",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
+    },
+    {
+        "title": "Performance Marketing Manager / Meta Ads (m/w/d)",
+        "company": "Finanzklar GmbH",
+        "location": "Remote (Mannheim)",
+        "url": "https://www.arbeitnow.com/jobs/companies/finanzklar-gmbh/performance-marketing-manager-meta-ads-mannheim-24434",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=F"
+    },
+    {
+        "title": "Media Buyer / Meta Ads (m/w/d)",
+        "company": "Finanzklar GmbH",
+        "location": "Remote (Mannheim)",
+        "url": "https://www.arbeitnow.com/jobs/companies/finanzklar-gmbh/media-buyer-meta-ads-mannheim-405309",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=F"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "GLS/NXT",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/glsnxt/senior-data-engineer-berlin-391080",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=G"
+    },
+    {
+        "title": "Nail Artist/ Nail Tech",
+        "company": "Unfr\u00e4med Berlin",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/unframed-berlin/nail-artist-nail-tech-berlin-496125",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=U"
+    },
+    {
+        "title": "WEG-Buchhalter (m/w/d) Zahlengeist mit Herz gesucht!",
+        "company": "Jobbusters\u00ae GmbH",
         "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/wiese-dental-beratungs-gmbh/junior-projektmanager-munich-74231",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=W"
+        "url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/weg-buchhalter-zahlengeist-mit-herz-gesucht-munich-452491",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=J"
     },
     {
-        "title": "Junior Account Manager (m/w/d) Sales & Marketing (B2B) in wachsendem Start-Up",
-        "company": "Digital Trendteam",
-        "location": "Remote (Mainz)",
-        "url": "https://www.arbeitnow.com/jobs/companies/digital-trendteam/junior-account-manager-sales-marketing-b2b-in-wachsendem-start-up-mainz-137112",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=D"
-    },
-    {
-        "title": "Senior SEO Consultant (m/w/d) | Focus on Organic Search & AI | 100% Remote",
-        "company": "hurra.com",
-        "location": "Remote (Stuttgart)",
-        "url": "https://www.arbeitnow.com/jobs/companies/hurracom/senior-seo-consultant-focus-on-organic-search-ai-100-remote-stuttgart-477430",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=h"
-    },
-    {
-        "title": "Berater/in (m/w/d) f\u00fcr Agrotourismus und Weintourismus",
-        "company": "LUB GmbH",
-        "location": "Remote (Offenburg)",
-        "url": "https://www.arbeitnow.com/jobs/companies/lub-gmbh/berater-in-fur-agrotourismus-und-weintourismus-offenburg-250155",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
-    },
-    {
-        "title": "Berater/in (m/w/d) Milchvieh",
-        "company": "LUB GmbH",
-        "location": "Remote (Offenburg)",
-        "url": "https://www.arbeitnow.com/jobs/companies/lub-gmbh/berater-in-milchvieh-offenburg-180777",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
-    },
-    {
-        "title": "Backend Developer (m/w/d)  PHP  PostgreSQL",
-        "company": "Pakajo GmbH",
-        "location": "Remote (Hamburg)",
-        "url": "https://www.arbeitnow.com/jobs/companies/pakajo-gmbh/backend-developer-php-postgresql-hamburg-472726",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
-    },
-    {
-        "title": "LinkedIn GTM Consultant",
-        "company": "SalesPlaybook AG",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/salesplaybook-ag/linkedin-gtm-consultant-berlin-296412",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "Senior Backend Developer (m/w/d)  PHP PostgreSQL",
-        "company": "Pakajo GmbH",
-        "location": "Remote (Hamburg)",
-        "url": "https://www.arbeitnow.com/jobs/companies/pakajo-gmbh/senior-backend-developer-php-postgresql-hamburg-193730",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
-    },
-    {
-        "title": "Trainee Artist Manager / Influencer Manager (m/w/d)",
-        "company": "Lionflence",
-        "location": "Remote (M\u00fclheim)",
-        "url": "https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-95673",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
-    },
-    {
-        "title": "Artist Manager / Influencer Manager (m/w/d) BERLIN",
-        "company": "Lionflence",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/lionflence/artist-manager-influencer-manager-berlin-301597",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
+        "title": "Bilanzbuchhalter (m/w/d)",
+        "company": "Jobbusters\u00ae GmbH",
+        "location": "Remote (Bremen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-bremen-344136",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=J"
     }
 ]
