@@ -1,72 +1,72 @@
 [
     {
-        "title": "Working Student - People Development",
+        "title": "Praktikum Online Marketing & Media Design (m/w/d) - Content Creation, Social Media & Startup-Kultur",
+        "company": "Think3DDD GbR",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/praktikum-online-marketing-media-design-content-creation-social-media-startup-kultur-berlin-329897",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
+    },
+    {
+        "title": "Project Engineering Manager - Core Spreads Manufacturing",
+        "company": "Flora Food Group",
+        "location": "Remote (Pratau, Saxony-Anhalt, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/flora-food-group/project-engineering-manager-core-spreads-manufacturing-pratau-246770",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=F"
+    },
+    {
+        "title": "Associate Account Director",
+        "company": "RetailNext",
+        "location": "Remote (Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/retailnext/associate-account-director-berlin-444845",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=R"
+    },
+    {
+        "title": "Working Student People Ops & Payroll",
         "company": "SumUp",
         "location": "Remote (Berlin, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/sumup/working-student-people-development-berlin-62220",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/working-student-people-ops-payroll-berlin-201583",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
     },
     {
-        "title": "Senior VP Sales (f/m/d)",
-        "company": "Clariness",
+        "title": "Engineering Manager - Edge AI",
+        "company": "SumUp",
+        "location": "Remote (Berlin, Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/engineering-manager-edge-ai-berlin-258996",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
+    },
+    {
+        "title": "Senior Full-Stack Engineer - SuperApp",
+        "company": "SumUp",
+        "location": "Remote (Berlin, Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-full-stack-engineer-superapp-berlin-452506",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
+    },
+    {
+        "title": "Senior Data Science/ML Engineer - Financial Crime",
+        "company": "SumUp",
+        "location": "Remote (Berlin, Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-data-science-ml-engineer-financial-crime-berlin-119994",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
+    },
+    {
+        "title": "Senior Backend Engineer (Golang) - Balance Management",
+        "company": "SumUp",
         "location": "Remote (Berlin, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/clariness/senior-vp-sales-berlin-154337",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=C"
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-balance-management-berlin-365224",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
     },
     {
-        "title": "Customer Success Werkstudent (m/w/d) - Software Startup",
-        "company": "hellomateo",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/hellomateo/customer-success-werkstudent-software-startup-berlin-50416",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=h"
+        "title": "Engineering Manager - Verification",
+        "company": "SumUp",
+        "location": "Remote (Berlin, Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/sumup/engineering-manager-verification-berlin-294061",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
     },
     {
-        "title": "Freiberufliche Unterst\u00fctzung im digitalen Backoffice (m/w/d) - Remote / Homeoffice",
-        "company": "Life and Fit Vital Balance Jennifer Witke",
-        "location": "Remote (Bischofsheim in der Rh\u00f6n)",
-        "url": "https://www.arbeitnow.com/jobs/companies/life-and-fit-vital-balance-jennifer-witke/freiberufliche-unterstutzung-im-digitalen-backoffice-remote-homeoffice-bischofsheim-in-der-rhon-414029",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
-    },
-    {
-        "title": "Freiberufliche Teamleitung (m/w/d) - Remote / Homeoffice",
-        "company": "Life and Fit Vital Balance Jennifer Witke",
-        "location": "Remote (Bischofsheim in der Rh\u00f6n)",
-        "url": "https://www.arbeitnow.com/jobs/companies/life-and-fit-vital-balance-jennifer-witke/freiberufliche-teamleitung-remote-homeoffice-bischofsheim-in-der-rhon-377611",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
-    },
-    {
-        "title": "E-Commerce Manager (m/w/d)",
-        "company": "ecowindow Gruppe",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/ecowindow-gruppe/e-commerce-manager-berlin-181478",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=e"
-    },
-    {
-        "title": "Marketplace Manager/in mit Fokus Amazon (m/w/d)",
-        "company": "Adsmasters GmbH",
-        "location": "Remote (D\u00fcsseldorf)",
-        "url": "https://www.arbeitnow.com/jobs/companies/adsmasters-gmbh/marketplace-manager-in-mit-fokus-amazon-dusseldorf-175464",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
-    },
-    {
-        "title": "Mitarbeiter (m/w/d) Kundenbetreuung & Datenerfassung (Teilzeit / Minijob / Vollzeit)",
-        "company": "Dein Finanzmanagment",
-        "location": "Remote (Regensburg)",
-        "url": "https://www.arbeitnow.com/jobs/companies/dein-finanzmanagment/mitarbeiter-kundenbetreuung-datenerfassung-teilzeit-minijob-vollzeit-regensburg-382189",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=D"
-    },
-    {
-        "title": "Mitarbeiter (m/w/d) Kundenbetreuung & Datenerfassung (Teilzeit / Minijob / Vollzeit)",
-        "company": "Dein Finanzmanagment",
-        "location": "Remote (Amberg)",
-        "url": "https://www.arbeitnow.com/jobs/companies/dein-finanzmanagment/mitarbeiter-kundenbetreuung-datenerfassung-teilzeit-minijob-vollzeit-amberg-398363",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=D"
-    },
-    {
-        "title": "Python Developer - Django (m/w/d)",
-        "company": "sync.blue\u00ae GmbH",
-        "location": "Remote (D\u00fclmen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/syncblue-gmbh/python-developer-django-dulmen-123981",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=s"
+        "title": "Projektlekitung Klassifizierung von Personalakten (m/w/d) in Voll- oder Teilzeit",
+        "company": "Transferdata GmbH",
+        "location": "Remote (Eching)",
+        "url": "https://www.arbeitnow.com/jobs/companies/transferdata-gmbh/projektlekitung-klassifizierung-von-personalakten-in-voll-oder-teilzeit-eching-90085",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
     }
 ]
