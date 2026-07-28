@@ -1,72 +1,72 @@
 [
     {
-        "title": "Praktikant*in Brand & Product Marketing (m/w/d)",
-        "company": "Amperecloud GmbH",
-        "location": "Remote (Berlin , Berlin, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/praktikantin-brand-product-marketing-berlin-465052",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
-    },
-    {
-        "title": "IT Backend Architect (M/W/D)",
-        "company": "Bitgrip Gmbh",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/bitgrip-gmbh/it-backend-architect-berlin-233422",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=B"
-    },
-    {
-        "title": "IT Consultant (m/w/d) Public Sector (Intrexx)",
-        "company": "Dataciders",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/dataciders/it-consultant-public-sector-intrexx-berlin-158908",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=D"
-    },
-    {
-        "title": "Senior Performance Marketing Manager (m/w/d)",
-        "company": "Egocentric Systems Gmbh",
-        "location": "Remote (Dresden)",
-        "url": "https://www.arbeitnow.com/jobs/companies/egocentric-systems-gmbh/senior-performance-marketing-manager-dresden-47446",
+        "title": "Full-Stack Developer | React/Nextjs, Tailwind, PostgreSQL/Supabase! (all genders)",
+        "company": "ECENT GmbH",
+        "location": "Remote (Munich)",
+        "url": "https://www.arbeitnow.com/jobs/companies/ecent-gmbh/full-stack-developer-react-nextjs-tailwind-postgresql-supabase-all-genders-munich-459347",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=E"
     },
     {
-        "title": "Werkstudent (m/w/d) \u2013 AI Engineering (von Ort)",
-        "company": "Assetmetrix Gmbh",
-        "location": "Remote (M\u00fcnchen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/assetmetrix-gmbh/werkstudent-ai-engineering-von-ort-munchen-38743",
+        "title": "Senior Consultant Analytics & Consulting (Mensch)",
+        "company": "wppmedia",
+        "location": "Remote (Dusseldorf)",
+        "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-consultant-analytics-consulting-mensch-dusseldorf-469418",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=w"
+    },
+    {
+        "title": "Senior Enterprise Account Manager, EMEA",
+        "company": "Pacvue",
+        "location": "Remote ()",
+        "url": "https://www.arbeitnow.com/jobs/companies/pacvue/senior-enterprise-account-manager-emea-225108",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
+    },
+    {
+        "title": "Werkstudent (m/w/d) \u2013 Finance & Beratung (unternehmerisch, leistungsbasiert)",
+        "company": "Kevin Kehr",
+        "location": "Remote (Homeoffice)",
+        "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-256813",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=K"
+    },
+    {
+        "title": "Data Engineer - AFRICOM",
+        "company": "Agile Defense",
+        "location": "Remote (Stuttgart, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/agile-defense/data-engineer-africom-stuttgart-germany-50591",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
     },
     {
-        "title": "Working Student Recruiting - E-Mobility (all genders)",
-        "company": "Chargecloud Gmbh",
-        "location": "Remote (K\u00f6ln)",
-        "url": "https://www.arbeitnow.com/jobs/companies/chargecloud-gmbh/working-student-recruiting-e-mobility-all-genders-koln-298408",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=C"
+        "title": "Talent Manager*in (m/w/d)",
+        "company": "Lyn the Agency GmbH",
+        "location": "Remote (D\u00fcsseldorf)",
+        "url": "https://www.arbeitnow.com/jobs/companies/lyn-the-agency-gmbh/talent-managerin-dusseldorf-162794",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
     },
     {
-        "title": "Working Student (m/f/d) Legal (20h/week, Berlin)",
-        "company": "Mamahealth",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/mamahealth/working-student-legal-20h-week-berlin-338688",
+        "title": "Finance Manager (m/w/d)",
+        "company": "Lyn the Agency GmbH",
+        "location": "Remote (D\u00fcsseldorf)",
+        "url": "https://www.arbeitnow.com/jobs/companies/lyn-the-agency-gmbh/finance-manager-dusseldorf-238988",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
+    },
+    {
+        "title": "Data & AI Engineer (m/w/d)",
+        "company": "MediPulse",
+        "location": "Remote (Munich)",
+        "url": "https://www.arbeitnow.com/jobs/companies/medipulse/data-ai-engineer-munich-125354",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=M"
     },
     {
-        "title": "Working Student/ Intern - Medical Image Analysis with AI",
-        "company": "Snke",
-        "location": "Remote (Heidelberg)",
-        "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-intern-medical-image-analysis-with-ai-heidelberg-115685",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
+        "title": "Werkstudent Finanzen und Controlling (m/w/d)",
+        "company": "BST-Tiefbau GmbH",
+        "location": "Remote (H\u00fcrth)",
+        "url": "https://www.arbeitnow.com/jobs/companies/bst-tiefbau-gmbh/werkstudent-finanzen-und-controlling-hurth-22187",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=B"
     },
     {
-        "title": "Working Student \u2013 Surgical Video Analysis",
-        "company": "Snke",
-        "location": "Remote (M\u00fcnchen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-surgical-video-analysis-munchen-125236",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "Working Student \u2013 Customer Service & Support",
-        "company": "Snke",
-        "location": "Remote (M\u00fcnchen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-customer-service-support-munchen-334845",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
+        "title": "Pflichtpraktikum Founders Associate (m/w/d)",
+        "company": "Zenaris",
+        "location": "Remote (Darmstadt)",
+        "url": "https://www.arbeitnow.com/jobs/companies/zenaris/pflichtpraktikum-founders-associate-darmstadt-457588",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=Z"
     }
 ]
