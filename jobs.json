@@ -1,72 +1,72 @@
 [
     {
-        "title": "Electronics / Embedded Robotics Engineer",
-        "company": "Sensmore",
-        "location": "Remote (Potsdam Office)",
-        "url": "https://www.arbeitnow.com/jobs/companies/sensmore/electronics-embedded-robotics-engineer-potsdam-26670",
+        "title": "Senior Decision Scientist, Marketing",
+        "company": "Vinteden",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/vinteden/senior-decision-scientist-marketing-berlin-13067",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=V"
+    },
+    {
+        "title": "(Junior) Consultant Information Security (m/f/d)",
+        "company": "Dataguard",
+        "location": "Remote (Munich)",
+        "url": "https://www.arbeitnow.com/jobs/companies/dataguard/junior-consultant-information-security-munich-309342",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=D"
+    },
+    {
+        "title": "IT Operations & Support - Working Student (m/f/d)",
+        "company": "Dataguard",
+        "location": "Remote (Munich)",
+        "url": "https://www.arbeitnow.com/jobs/companies/dataguard/it-operations-support-working-student-munich-410321",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=D"
+    },
+    {
+        "title": "Enterprise Account Executive (DACH)",
+        "company": "Sanity",
+        "location": "Remote (Remote in Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/sanity/remote-enterprise-account-executive-dach-446668",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
     },
     {
-        "title": "Machine Learning Engineer",
-        "company": "Sensmore",
-        "location": "Remote (Berlin Office)",
-        "url": "https://www.arbeitnow.com/jobs/companies/sensmore/machine-learning-engineer-berlin-350296",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "Robotics Hardware Engineer",
-        "company": "Sensmore",
-        "location": "Remote (Potsdam Office)",
-        "url": "https://www.arbeitnow.com/jobs/companies/sensmore/robotics-hardware-engineer-potsdam-10883",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "Working Student - Mechatronics Assembly Technician (20 hrs)",
-        "company": "Sensmore",
-        "location": "Remote (Potsdam Office)",
-        "url": "https://www.arbeitnow.com/jobs/companies/sensmore/working-student-mechatronics-assembly-technician-20-hrs-potsdam-70311",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "B2B Marketing Manager (m/f/d)",
-        "company": "Statista",
-        "location": "Remote (Hamburg)",
-        "url": "https://www.arbeitnow.com/jobs/companies/statista/b2b-marketing-manager-hamburg-457732",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "Biology Expert - AI Trainer (Germany)",
-        "company": "Anyone Ai",
-        "location": "Remote (Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/biology-expert-ai-trainer-germany-berlin-125510",
+        "title": "Praktikant*in Brand & Product Marketing (m/w/d)",
+        "company": "Amperecloud GmbH",
+        "location": "Remote (Berlin , Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/praktikantin-brand-product-marketing-berlin-366991",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
     },
     {
-        "title": "Python Developer - Remote in Germany",
-        "company": "Anyone Ai",
-        "location": "Remote (Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/python-developer-remote-in-germany-berlin-319060",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
+        "title": "Working Student - Category Management (m/f/x)",
+        "company": "rebuy",
+        "location": "Remote (Berlin, Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/rebuy/working-student-category-management-berlin-946",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=r"
     },
     {
-        "title": "Full-Stack Developer - AI Trainer (Germany)",
-        "company": "Anyone Ai",
-        "location": "Remote (Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-278001",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
-    },
-    {
-        "title": "Data & Operations Specialist",
-        "company": "Anyone Ai",
+        "title": "Customer Success Architect, CEUR",
+        "company": "Gitlab",
         "location": "Remote (Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/remote-data-operations-specialist-162391",
+        "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-customer-success-architect-ceur-271787",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=G"
+    },
+    {
+        "title": "Growth Marketing Architect (f/m/d)",
+        "company": "Apaleo",
+        "location": "Remote (Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/apaleo/growth-marketing-architect-berlin-338944",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
     },
     {
-        "title": "Chemistry Expert (Remote - Germany)",
-        "company": "Anyone Ai",
-        "location": "Remote (Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/chemistry-expert-remote-germany-berlin-496143",
+        "title": "Growth Marketing Architect (f/m/d)",
+        "company": "Apaleo",
+        "location": "Remote (M\u00fcnchen, Bavaria, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/apaleo/growth-marketing-architect-munchen-93312",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
+    },
+    {
+        "title": "Director Brand Marketing & Community (all genders)",
+        "company": "Urban Sports Club",
+        "location": "Remote (Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/urban-sports-club/director-brand-marketing-community-all-genders-berlin-327358",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=U"
     }
 ]
