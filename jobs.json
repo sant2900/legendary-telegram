@@ -1,72 +1,72 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Preiswecker",
+        "title": "Principal Data Strategist (m/f/d)",
+        "company": "thoughtworks",
+        "location": "Remote (Cologne; Hamburg; Munich; Stuttgart)",
+        "url": "https://www.arbeitnow.com/jobs/companies/thoughtworks/principal-data-strategist-cologne-hamburg-munich-stuttgart-374355",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=t"
+    },
+    {
+        "title": "Senior Software Engineer, Backend",
+        "company": "Camunda",
+        "location": "Remote (Remote)",
+        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-118699",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=C"
+    },
+    {
+        "title": "Steuerfachangestellte:r / Steuerfachwirt:in (m/w/d) - Startup",
+        "company": "Taxforce",
         "location": "Remote (Berlin)",
-        "url": "https://www.preiswecker.com/",
+        "url": "https://www.arbeitnow.com/jobs/companies/taxforce/steuerfachangestellter-steuerfachwirtin-startup-berlin-28802",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
+    },
+    {
+        "title": "Werkstudent:in Graphic Design (w/m/x)",
+        "company": "Piabo",
+        "location": "Remote (Berlin (B))",
+        "url": "https://www.arbeitnow.com/jobs/companies/piabo/werkstudentin-graphic-design-berlin-b-142719",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
     },
     {
-        "title": "Intern / Working Student Online Training Translation (Korean speaking)",
-        "company": "celonis",
-        "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/celonis/intern-working-student-online-training-translation-korean-speaking-munich-432977",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
+        "title": "Senior Manager New Business &  Strategic Growth (w/m/x)",
+        "company": "Piabo",
+        "location": "Remote (Berlin (B))",
+        "url": "https://www.arbeitnow.com/jobs/companies/piabo/senior-manager-new-business-strategic-growth-berlin-b-96960",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
     },
     {
-        "title": "Senior Software Engineer (Ruby / GOlang)",
-        "company": "workato",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-software-engineer-ruby-golang-berlin-489336",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=w"
+        "title": "Werkstudent (all genders) \u2013 Robuste Feed-Forward-3D-Rekonstruktion f\u00fcr dynamische Szenen",
+        "company": "Xitaso",
+        "location": "Remote (Augsburg)",
+        "url": "https://www.arbeitnow.com/jobs/companies/xitaso/werkstudent-all-genders-robuste-feed-forward-3d-rekonstruktion-fur-dynamische-szenen-augsburg-206453",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=X"
     },
     {
-        "title": "Forward Deployed Engineer - Software Engineer - Germany",
-        "company": "ElevenLabs",
-        "location": "Remote (Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/forward-deployed-engineer-software-engineer-germany-70994",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=E"
-    },
-    {
-        "title": "Brand Design Lead",
-        "company": "Berlitz",
-        "location": "Remote (Germany Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-brand-design-lead-144384",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=B"
-    },
-    {
-        "title": "Account Executive (all genders)",
-        "company": "Lio",
-        "location": "Remote (Munich Office)",
-        "url": "https://www.arbeitnow.com/jobs/companies/lio/account-executive-all-genders-munich-390302",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
-    },
-    {
-        "title": "Account Executive EdTECH DACH (m/w/d)",
-        "company": "pplwise",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/pplwise/account-executive-edtech-dach-berlin-406644",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=p"
-    },
-    {
-        "title": "Field Account Executive - Frankfurt",
-        "company": "Lightspeedhq",
-        "location": "Remote (Frankfurt)",
-        "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/field-account-executive-frankfurt-435979",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
-    },
-    {
-        "title": "Enterprise Account Executive, DACH",
-        "company": "Horizon3Ai",
-        "location": "Remote (Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/horizon3ai/enterprise-account-executive-dach-germany-236234",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=H"
-    },
-    {
-        "title": "Werkstudent ERP-Projektmanagement (m/w/d)",
-        "company": "Huz",
+        "title": "Head of Product (all genders)",
+        "company": "Kertos",
         "location": "Remote (M\u00fcnchen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/huz/werkstudent-erp-projektmanagement-munchen-90985",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=H"
+        "url": "https://www.arbeitnow.com/jobs/companies/kertos/head-of-product-all-genders-munchen-381862",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=K"
+    },
+    {
+        "title": "(Senior) Professional Services Consultant - Information Security (all genders)",
+        "company": "Kertos",
+        "location": "Remote (M\u00fcnchen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/kertos/senior-professional-services-consultant-information-security-all-genders-munchen-112099",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=K"
+    },
+    {
+        "title": "Senior Performance Marketing Manager (m/w/d)",
+        "company": "yfood Labs GmbH",
+        "location": "Remote (M\u00fcnchen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/yfood-labs-gmbh/senior-performance-marketing-manager-munchen-169254",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=y"
+    },
+    {
+        "title": "Senior UI/UX Designer (all genders)",
+        "company": "Init Ag",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-berlin-481676",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=I"
     }
 ]
