@@ -1,72 +1,72 @@
 [
     {
-        "title": "Senior Accountant (German Speaker)",
-        "company": "Saasgroup",
-        "location": "Remote (Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/saasgroup/remote-senior-accountant-german-speaker-436205",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "(Senior) Manager (m/w/d) \u2013 Power Market Advisory",
-        "company": "Baringa",
-        "location": "Remote (Dusseldorf)",
-        "url": "https://www.arbeitnow.com/jobs/companies/baringa/senior-manager-power-market-advisory-dusseldorf-412988",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=B"
-    },
-    {
-        "title": "Senior Agent Platform Engineer",
-        "company": "Proxima Fusion GmbH",
-        "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/senior-agent-platform-engineer-munich-474076",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
-    },
-    {
-        "title": "Senior Manager, QA Engineering",
-        "company": "Camunda",
-        "location": "Remote (Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-qa-engineering-194334",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=C"
-    },
-    {
-        "title": "Product Builder",
-        "company": "Camunda",
-        "location": "Remote (Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-product-builder-467394",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=C"
-    },
-    {
-        "title": "Kfz-Mechatroniker (m/w/d) \u2013 Wohnmobile & Campervans",
-        "company": "Roadsurfer",
-        "location": "Remote (Braunschweig)",
-        "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/kfz-mechatroniker-wohnmobile-campervans-braunschweig-379120",
+        "title": "Founders Associate (AI x Greentech) (m/f/d)",
+        "company": "Reonic",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/reonic/founders-associate-ai-x-greentech-berlin-18408",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=R"
     },
     {
-        "title": "Project Manager & Functional Consultant",
-        "company": "BLP Digital AG",
-        "location": "Remote (Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/blp-digital-ag/project-manager-functional-consultant-munich-103559",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=B"
+        "title": "Sales Executive",
+        "company": "Lumaai",
+        "location": "Remote (Munich, GER)",
+        "url": "https://www.arbeitnow.com/jobs/companies/lumaai/sales-executive-munich-169741",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
     },
     {
-        "title": "VP, Growth",
-        "company": "Nivoda",
-        "location": "Remote (Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/nivoda/remote-vp-growth-275820",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=N"
-    },
-    {
-        "title": "Staff Software Engineer (m/f/d) for telemedicine platform",
-        "company": "Ocumeda Ag",
+        "title": "Trainee / Berufseinstieg nach BWL-, Finance- oder Wirtschaftsrecht-Studium (m/w/d)",
+        "company": "Vogel",
         "location": "Remote (M\u00fcnchen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/staff-software-engineer-for-telemedicine-platform-munchen-304245",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=O"
+        "url": "https://www.arbeitnow.com/jobs/companies/vogel/trainee-berufseinstieg-nach-bwl-finance-oder-wirtschaftsrecht-studium-munchen-261851",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=V"
     },
     {
-        "title": "Product Owner \u2013 SDV Data Products (f/m/d)",
-        "company": "Adsquare",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/adsquare/product-owner-sdv-data-products-berlin-39938",
+        "title": "Associate Accounting & Controlling (m/w/d)",
+        "company": "Vogel",
+        "location": "Remote (M\u00fcnchen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/vogel/associate-accounting-controlling-munchen-232137",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=V"
+    },
+    {
+        "title": "Manager Accounting & Controlling (m/w/d)",
+        "company": "Vogel",
+        "location": "Remote (M\u00fcnchen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/vogel/manager-accounting-controlling-munchen-487567",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=V"
+    },
+    {
+        "title": "Senior Expert Tax (m/w/d)",
+        "company": "Vogel",
+        "location": "Remote (M\u00fcnchen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/vogel/senior-expert-tax-munchen-395655",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=V"
+    },
+    {
+        "title": "Senior Manager Tax (m/w/d)",
+        "company": "Vogel",
+        "location": "Remote (M\u00fcnchen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/vogel/senior-manager-tax-munchen-330454",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=V"
+    },
+    {
+        "title": "Lead Expert Tax (m/w/d)",
+        "company": "Vogel",
+        "location": "Remote (M\u00fcnchen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/vogel/lead-expert-tax-munchen-136486",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=V"
+    },
+    {
+        "title": "Director Tax (m/w/d)",
+        "company": "Vogel",
+        "location": "Remote (M\u00fcnchen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/vogel/director-tax-munchen-123218",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=V"
+    },
+    {
+        "title": "Praktikant*in Brand & Product Marketing (m/w/d)",
+        "company": "Amperecloud GmbH",
+        "location": "Remote (Berlin , Berlin, Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/praktikantin-brand-product-marketing-berlin-301113",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
     }
 ]
