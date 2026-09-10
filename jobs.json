@@ -1,72 +1,72 @@
 [
     {
-        "title": "Customer Success Manager - German Market (Berlin)",
-        "company": "Lexroom",
+        "title": "Director, Customer Success, EMEA",
+        "company": "gitlab",
+        "location": "Remote (Remote)",
+        "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-director-customer-success-emea-429624",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=g"
+    },
+    {
+        "title": "(Senior) QA Engineer (x/f/m)",
+        "company": "dkbcodefactory",
         "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/lexroom/customer-success-manager-german-market-berlin-407300",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
+        "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/senior-qa-engineer-berlin-254105",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=d"
     },
     {
-        "title": "BDR Team Manager - German Market (Berlin)",
-        "company": "Lexroom",
+        "title": "Senior Field Marketing Manager (German- Speaking)",
+        "company": "diligentcorporation",
+        "location": "Remote ()",
+        "url": "https://www.arbeitnow.com/jobs/companies/diligentcorporation/senior-field-marketing-manager-german-speaking-66359",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=d"
+    },
+    {
+        "title": "Manager, Agent Architecture",
+        "company": "parloa",
+        "location": "Remote ()",
+        "url": "https://www.arbeitnow.com/jobs/companies/parloa/manager-agent-architecture-31217",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=p"
+    },
+    {
+        "title": "Senior Manager/Associate Director, Commercial Operations, Germany",
+        "company": "Acadia Job Listings",
+        "location": "Remote ()",
+        "url": "https://www.arbeitnow.com/jobs/companies/acadia-job-listings/senior-manager-associate-director-commercial-operations-germany-918",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
+    },
+    {
+        "title": "Senior Content Manager SEO/AEO (m/w/d)",
+        "company": "autoscout24",
+        "location": "Remote ()",
+        "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-content-manager-seo-aeo-179737",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=a"
+    },
+    {
+        "title": "Application Security Engineer (f/m/d)",
+        "company": "Awin",
+        "location": "Remote (Berlin, Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/awin/application-security-engineer-berlin-berlin-342451",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
+    },
+    {
+        "title": "Senior Commercial Finance Manager",
+        "company": "freenow",
+        "location": "Remote (Hamburg)",
+        "url": "https://www.arbeitnow.com/jobs/companies/freenow/senior-commercial-finance-manager-hamburg-105073",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=f"
+    },
+    {
+        "title": "Senior Commercial Finance Manager",
+        "company": "freenow",
         "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/lexroom/bdr-team-manager-german-market-berlin-278430",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
+        "url": "https://www.arbeitnow.com/jobs/companies/freenow/senior-commercial-finance-manager-berlin-346965",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=f"
     },
     {
-        "title": "Junior Production Engineer",
-        "company": "RobCo",
-        "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/robco/junior-production-engineer-munich-193188",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=R"
-    },
-    {
-        "title": "Senior Partner Manager - DACH",
-        "company": "Tellent",
-        "location": "Remote (Cologne, Nordrhein-Westfalen, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/tellent/senior-partner-manager-dach-cologne-358398",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
-    },
-    {
-        "title": "Werkstudent Social Media | Marketing (m/w/d)",
-        "company": "WerraEnergie GmbH",
-        "location": "Remote (Bad Salzungen, Th\u00fcringen, Deutschland)",
-        "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-social-media-marketing-bad-salzungen-190267",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=W"
-    },
-    {
-        "title": "Werkstudent (m/w/d)",
-        "company": "WerraEnergie GmbH",
-        "location": "Remote (Bad Salzungen, Th\u00fcringen, Deutschland)",
-        "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-bad-salzungen-368559",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=W"
-    },
-    {
-        "title": "Werkstudent Elektrotechnik / Energietechnik (m/w/d)",
-        "company": "WerraEnergie GmbH",
-        "location": "Remote (Bad Salzungen, Th\u00fcringen, Deutschland)",
-        "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-elektrotechnik-energietechnik-bad-salzungen-334571",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=W"
-    },
-    {
-        "title": "Infrastructure & Cloud Engineer (m-f-d)",
-        "company": "Fsc",
-        "location": "Remote (Bonn, Germany (Hybrid))",
-        "url": "https://www.arbeitnow.com/jobs/companies/fsc/infrastructure-cloud-engineer-m-f-d-bonn-germany-hybrid-342782",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=F"
-    },
-    {
-        "title": "Head of Integrity Data and Innovations (m-f-d)",
-        "company": "Fsc",
-        "location": "Remote (Bonn, Germany (Hybrid))",
-        "url": "https://www.arbeitnow.com/jobs/companies/fsc/head-of-integrity-data-and-innovations-m-f-d-bonn-germany-hybrid-239204",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=F"
-    },
-    {
-        "title": "Working Student (m/f/d) - Calibration",
-        "company": "Iocto",
-        "location": "Remote (Dresden - Dippoldiswalde)",
-        "url": "https://www.arbeitnow.com/jobs/companies/iocto/working-student-calibration-dresden-dippoldiswalde-32099",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=I"
+        "title": "Senior Search Backend Engineer (m/f/x)",
+        "company": "commercetools",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/commercetools/senior-search-backend-engineer-berlin-34822",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
     }
 ]
