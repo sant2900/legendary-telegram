@@ -1,72 +1,72 @@
 [
     {
-        "title": "Senior Engineer I, Field Service",
-        "company": "Asm",
-        "location": "Remote ()",
-        "url": "https://www.arbeitnow.com/jobs/companies/asm/senior-engineer-i-field-service-251145",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
-    },
-    {
-        "title": "(Senior) Software Engineer",
-        "company": "Augustus",
+        "title": "Secure data infrastructure for AI",
+        "company": "Inceptive",
         "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/augustus/senior-software-engineer-berlin-129046",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
+        "url": "https://www.arbeitnow.com/jobs/companies/inceptive/secure-data-infrastructure-for-ai-berlin-142850",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=I"
     },
     {
-        "title": "(Senior) DevOps Engineer",
-        "company": "Augustus",
+        "title": "Team Lead Sales Development",
+        "company": "trawa",
+        "location": "Remote (Berlin HQ)",
+        "url": "https://www.arbeitnow.com/jobs/companies/trawa/team-lead-sales-development-berlin-14699",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=t"
+    },
+    {
+        "title": "Operations Intern - Renewable Supply",
+        "company": "trawa",
+        "location": "Remote (Berlin HQ)",
+        "url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-intern-renewable-supply-berlin-139262",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=t"
+    },
+    {
+        "title": "Operations Associate - Battery Solutions",
+        "company": "trawa",
+        "location": "Remote (Berlin HQ)",
+        "url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-associate-battery-solutions-berlin-208555",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=t"
+    },
+    {
+        "title": "Accounts Receivable Accountant",
+        "company": "trawa",
+        "location": "Remote (Berlin HQ)",
+        "url": "https://www.arbeitnow.com/jobs/companies/trawa/accounts-receivable-accountant-berlin-328112",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=t"
+    },
+    {
+        "title": "Product Growth Manager",
+        "company": "Nelly Solutions",
         "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/augustus/senior-devops-engineer-berlin-416800",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
+        "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/product-growth-manager-berlin-50257",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=N"
     },
     {
-        "title": "Internship",
-        "company": "Augustus",
+        "title": "Senior Software Engineer, Python",
+        "company": "Nelly Solutions",
         "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-169169",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
+        "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/senior-software-engineer-python-berlin-38678",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=N"
     },
     {
-        "title": "Senior ERP Solutions Consultant",
-        "company": "Zip",
-        "location": "Remote (Remote - Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/zip/senior-erp-solutions-consultant-munich-334598",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=Z"
+        "title": "Senior Forward Deployed Software Engineer",
+        "company": "Nelly Solutions",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/senior-forward-deployed-software-engineer-berlin-240025",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=N"
     },
     {
-        "title": "Senior Solution Engineer (Pre-Sales)",
-        "company": "Zip",
-        "location": "Remote (Remote - Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/zip/senior-solution-engineer-pre-sales-munich-418834",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=Z"
+        "title": "Growth Marketing | Intern /\u00a0Working Student (d/f/m)",
+        "company": "Luminovo GmbH",
+        "location": "Remote (\ud83c\udde9\ud83c\uddea Munich (hybrid))",
+        "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/growth-marketing-intern-working-student-munich-376909",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
     },
     {
-        "title": "Strategic Account Executive",
-        "company": "Zip",
-        "location": "Remote (Remote - Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/zip/strategic-account-executive-munich-56653",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=Z"
-    },
-    {
-        "title": "Werkstudent Customer Success (F/M/*)",
-        "company": "Amber",
-        "location": "Remote (K\u00f6ln)",
-        "url": "https://www.arbeitnow.com/jobs/companies/amber/werkstudent-customer-success-f-m-koln-330593",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
-    },
-    {
-        "title": "Account Executive - Bayern (F/M/*)",
-        "company": "Amber",
-        "location": "Remote (Bayern)",
-        "url": "https://www.arbeitnow.com/jobs/companies/amber/account-executive-bayern-f-m-augsburg-209969",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
-    },
-    {
-        "title": "AI Product Support (F/M/*)",
-        "company": "Amber",
-        "location": "Remote (K\u00f6ln)",
-        "url": "https://www.arbeitnow.com/jobs/companies/amber/ai-product-support-f-m-koln-284814",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
+        "title": "Finance Business Partner - Germany",
+        "company": "Omaze",
+        "location": "Remote (Munich)",
+        "url": "https://www.arbeitnow.com/jobs/companies/omaze/finance-business-partner-germany-munich-140598",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=O"
     }
 ]
