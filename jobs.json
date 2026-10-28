@@ -1,72 +1,72 @@
 [
     {
-        "title": "Test Engineer (f/m/d)",
-        "company": "Think Cell",
-        "location": "Remote ()",
-        "url": "https://www.arbeitnow.com/jobs/companies/think-cell/test-engineer-70162",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
-    },
-    {
-        "title": "Senior Software Engineer",
-        "company": "Auterion",
-        "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/auterion/senior-software-engineer-munich-365741",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
-    },
-    {
-        "title": "Forward Deployed Engineer",
-        "company": "Auterion",
-        "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/auterion/forward-deployed-engineer-munich-444941",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
-    },
-    {
-        "title": "Technical Product Manager",
-        "company": "Swarmaero",
-        "location": "Remote (Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-product-manager-132288",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "Product Designer",
-        "company": "Swarmaero",
-        "location": "Remote (Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-product-designer-15490",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "Sales Manager DACH Region (m/f/d)",
-        "company": "Cornelsen Umwelttechnologie GmbH",
-        "location": "Remote (Essen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/cornelsen-umwelttechnologie-gmbh/sales-manager-dach-region-essen-175620",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=C"
-    },
-    {
-        "title": "Software Engineer - Perception (m/f/d)",
-        "company": "Quantum-Systems GmbH",
-        "location": "Remote (Gilching, Bayern, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-engineer-perception-gilching-137183",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=Q"
-    },
-    {
-        "title": "Working Student \u2013 Talent Acquisition (m/f/d)",
-        "company": "Quantum-Systems GmbH",
-        "location": "Remote (Gilching, Bayern, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-talent-acquisition-gilching-396675",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=Q"
-    },
-    {
-        "title": "Test Engineer - Automated Systems (f/m/d)",
-        "company": "Instagrid",
-        "location": "Remote (Ludwigsburg, Baden-W\u00fcrttemberg, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/instagrid/test-engineer-automated-systems-ludwigsburg-93053",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=I"
-    },
-    {
-        "title": "Senior Software-Entwickler (m/w/d) \u2013 PHP/Symfony & React \u2013 Berlin - Hybrid",
-        "company": "MRP My Recruitment Partners Ltd.",
-        "location": "Remote (Berlin, Brandenburg, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/mrp-my-recruitment-partners-ltd/senior-software-entwickler-php-symfony-react-berlin-hybrid-207674",
+        "title": "Growth & Strategy Manager (m/f/d)",
+        "company": "MAOMAO Technologies",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/maomao-technologies/growth-strategy-manager-berlin-3590",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=M"
+    },
+    {
+        "title": "Account Executive, Portworx - Strategic Accounts - Telco (EMEA)",
+        "company": "purestorage",
+        "location": "Remote (Munich)",
+        "url": "https://www.arbeitnow.com/jobs/companies/purestorage/account-executive-portworx-strategic-accounts-telco-emea-munich-207721",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=p"
+    },
+    {
+        "title": "Senior Technical Account Manager",
+        "company": "okta",
+        "location": "Remote (Munich)",
+        "url": "https://www.arbeitnow.com/jobs/companies/okta/senior-technical-account-manager-munich-196407",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=o"
+    },
+    {
+        "title": "Network Architect / Network Specialist (On\u2011Prem, Global)",
+        "company": "Agilerobotsse",
+        "location": "Remote (Munich, Bavaria)",
+        "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/network-architect-network-specialist-onprem-global-munich-bavaria-102656",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=A"
+    },
+    {
+        "title": "Commercial Account Executive",
+        "company": "boxinc",
+        "location": "Remote ()",
+        "url": "https://www.arbeitnow.com/jobs/companies/boxinc/commercial-account-executive-348684",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=b"
+    },
+    {
+        "title": "Senior Indirect Procurement Category Manager - Marketing (All Genders)",
+        "company": "4lu44n1n37w012k",
+        "location": "Remote (Berlin, Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/4lu44n1n37w012k/senior-indirect-procurement-category-manager-marketing-all-genders-berlin-berlin-26501",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=4"
+    },
+    {
+        "title": "Principal Engineer",
+        "company": "intercom",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/intercom/principal-engineer-berlin-21279",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=i"
+    },
+    {
+        "title": "Senior Technical Program Manager, Solutions",
+        "company": "planetlabs",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-technical-program-manager-solutions-berlin-64780",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=p"
+    },
+    {
+        "title": "Senior Director of Engineering - Civil Government and Commercial",
+        "company": "planetlabs",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-director-of-engineering-civil-government-and-commercial-berlin-79646",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=p"
+    },
+    {
+        "title": "Director of Sales, Europe",
+        "company": "planetlabs",
+        "location": "Remote (Remote)",
+        "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-director-of-sales-europe-185522",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=p"
     }
 ]
