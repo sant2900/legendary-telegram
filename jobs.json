@@ -1,72 +1,72 @@
 [
     {
-        "title": "Senior Document Manager (m/f/d)",
-        "company": "TIS GmbH",
-        "location": "Remote (Charlottenburg, Berlin, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/tis-gmbh/senior-document-manager-charlottenburg-275731",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
-    },
-    {
-        "title": "Senior FP&A Controller (m/f/d)",
-        "company": "Quantum-Systems GmbH",
-        "location": "Remote (Gilching, Bayern, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-fpa-controller-gilching-212366",
+        "title": "Staff Data Analyst, Marketing",
+        "company": "Quince",
+        "location": "Remote ()",
+        "url": "https://www.arbeitnow.com/jobs/companies/quince/staff-data-analyst-marketing-188996",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=Q"
     },
     {
-        "title": "Senior Software Engineer, Systems Integration",
-        "company": "Hypersonica",
+        "title": "(Senior) Creative Marketing Manager (m/w/d)",
+        "company": "sonymusicentertainment",
+        "location": "Remote (Europe, Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/senior-creative-marketing-manager-europe-berlin-184159",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=s"
+    },
+    {
+        "title": "Software Engineer (Intern, C#)",
+        "company": "constructortech",
+        "location": "Remote (Bremen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/software-engineer-intern-c-bremen-424029",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
+    },
+    {
+        "title": "Senior Technical Product Manager (Platform)",
+        "company": "constructortech",
+        "location": "Remote ()",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-technical-product-manager-platform-111631",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
+    },
+    {
+        "title": "Senior Product Manager (EdTech & AI)",
+        "company": "constructortech",
+        "location": "Remote ()",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-product-manager-edtech-ai-232898",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
+    },
+    {
+        "title": "ML Research Intern in Agentic Runtime Systems",
+        "company": "constructortech",
+        "location": "Remote (Bremen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/ml-research-intern-in-agentic-runtime-systems-bremen-304446",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
+    },
+    {
+        "title": "Frontend Engineer (Intern)",
+        "company": "constructortech",
+        "location": "Remote (Bremen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/frontend-engineer-intern-bremen-226532",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
+    },
+    {
+        "title": "(Senior) Analyst  (m/f/d)",
+        "company": "Statista",
+        "location": "Remote (Hamburg)",
+        "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-analyst-hamburg-88423",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
+    },
+    {
+        "title": "Founding Legal Engineer",
+        "company": "Grubel",
         "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/senior-software-engineer-systems-integration-munich-146873",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=H"
+        "url": "https://www.arbeitnow.com/jobs/companies/grubel/founding-legal-engineer-munich-213456",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=G"
     },
     {
-        "title": "Senior Software Engineer, Mission Planning",
-        "company": "Hypersonica",
+        "title": "Founding Research Engineer or Research Scientist",
+        "company": "Grubel",
         "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/senior-software-engineer-mission-planning-munich-133920",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=H"
-    },
-    {
-        "title": "Senior SAP EWM Consultant (w/m/d)",
-        "company": "Westernacher",
-        "location": "Remote (Heidelberg, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/westernacher/senior-sap-ewm-consultant-heidelberg-germany-400164",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=W"
-    },
-    {
-        "title": "Solution Architect - DACH",
-        "company": "Insider One",
-        "location": "Remote (Berlin, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/insider-one/solution-architect-dach-berlin-germany-196939",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=I"
-    },
-    {
-        "title": "Head of Data Science and Analytics (JetBrains Air)",
-        "company": "jetbrains",
-        "location": "Remote (Berlin; Munich; Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-head-of-data-science-and-analytics-jetbrains-air-450936",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=j"
-    },
-    {
-        "title": "Founding ML Engineer (Spectrum)",
-        "company": "jetbrains",
-        "location": "Remote (Berlin; Munich; Remote)",
-        "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-ml-engineer-spectrum-168717",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=j"
-    },
-    {
-        "title": "Senior Specialist, Information Security",
-        "company": "bitpanda",
-        "location": "Remote (Berlin, Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/bitpanda/senior-specialist-information-security-berlin-berlin-255507",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=b"
-    },
-    {
-        "title": "Director, European Government Operations",
-        "company": "Rocket Lab Corporation",
-        "location": "Remote (Munich, Bavaria, Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/rocket-lab-corporation/director-european-government-operations-munich-37411",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=R"
+        "url": "https://www.arbeitnow.com/jobs/companies/grubel/founding-research-engineer-or-research-scientist-munich-284774",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=G"
     }
 ]
