@@ -1,72 +1,72 @@
 [
     {
-        "title": "Staff Data Analyst, Marketing",
-        "company": "Quince",
+        "title": "Full Stack Engineer",
+        "company": "Tilla Technologies",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/tilla-technologies/full-stack-engineer-berlin-473243",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
+    },
+    {
+        "title": "(Senior) QA Engineer",
+        "company": "Tilla Technologies",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/tilla-technologies/senior-qa-engineer-berlin-41727",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
+    },
+    {
+        "title": "Financemanagement Specialist - Fintech (m/w/d) - Germany",
+        "company": "Pennylane De",
+        "location": "Remote (Germany (remote))",
+        "url": "https://www.arbeitnow.com/jobs/companies/pennylane-de/remote-financemanagement-specialist-fintech-germany-51816",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
+    },
+    {
+        "title": "Buchhalter*in Fintech (m/w/d) - Germany",
+        "company": "Pennylane De",
+        "location": "Remote (Germany (remote))",
+        "url": "https://www.arbeitnow.com/jobs/companies/pennylane-de/remote-buchhalterin-fintech-germany-150806",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
+    },
+    {
+        "title": "Data Analyst - Finance",
+        "company": "Emma \u2013 The Sleep Company",
+        "location": "Remote (Frankfurt)",
+        "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/data-analyst-finance-frankfurt-168424",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=E"
+    },
+    {
+        "title": "Senior Data Analyst, Lifecycle",
+        "company": "Finom",
+        "location": "Remote (Germany)",
+        "url": "https://www.arbeitnow.com/jobs/companies/finom/senior-data-analyst-lifecycle-germany-124714",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=F"
+    },
+    {
+        "title": "Enterprise Account Executive",
+        "company": "Elastic",
         "location": "Remote ()",
-        "url": "https://www.arbeitnow.com/jobs/companies/quince/staff-data-analyst-marketing-188996",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=Q"
+        "url": "https://www.arbeitnow.com/jobs/companies/elastic/enterprise-account-executive-464005",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=E"
     },
     {
-        "title": "(Senior) Creative Marketing Manager (m/w/d)",
-        "company": "sonymusicentertainment",
-        "location": "Remote (Europe, Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/senior-creative-marketing-manager-europe-berlin-184159",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=s"
-    },
-    {
-        "title": "Software Engineer (Intern, C#)",
-        "company": "constructortech",
-        "location": "Remote (Bremen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/software-engineer-intern-c-bremen-424029",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
-    },
-    {
-        "title": "Senior Technical Product Manager (Platform)",
-        "company": "constructortech",
+        "title": "Electrical Senior Authorised Person | Germany",
+        "company": "Kirbygroupengineering",
         "location": "Remote ()",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-technical-product-manager-platform-111631",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
+        "url": "https://www.arbeitnow.com/jobs/companies/kirbygroupengineering/electrical-senior-authorised-person-germany-283058",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=K"
     },
     {
-        "title": "Senior Product Manager (EdTech & AI)",
-        "company": "constructortech",
-        "location": "Remote ()",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/senior-product-manager-edtech-ai-232898",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
+        "title": "Major Account Executive",
+        "company": "Digicert",
+        "location": "Remote (Munich)",
+        "url": "https://www.arbeitnow.com/jobs/companies/digicert/major-account-executive-munich-194510",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=D"
     },
     {
-        "title": "ML Research Intern in Agentic Runtime Systems",
-        "company": "constructortech",
-        "location": "Remote (Bremen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/ml-research-intern-in-agentic-runtime-systems-bremen-304446",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
-    },
-    {
-        "title": "Frontend Engineer (Intern)",
-        "company": "constructortech",
-        "location": "Remote (Bremen)",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructortech/frontend-engineer-intern-bremen-226532",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=c"
-    },
-    {
-        "title": "(Senior) Analyst  (m/f/d)",
-        "company": "Statista",
-        "location": "Remote (Hamburg)",
-        "url": "https://www.arbeitnow.com/jobs/companies/statista/senior-analyst-hamburg-88423",
+        "title": "Junior Account Executive SMB | DACH Market (m/w/d)",
+        "company": "Superchat",
+        "location": "Remote (Berlin, Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/superchat/junior-account-executive-smb-dach-market-berlin-berlin-421539",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
-    },
-    {
-        "title": "Founding Legal Engineer",
-        "company": "Grubel",
-        "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/grubel/founding-legal-engineer-munich-213456",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=G"
-    },
-    {
-        "title": "Founding Research Engineer or Research Scientist",
-        "company": "Grubel",
-        "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/grubel/founding-research-engineer-or-research-scientist-munich-284774",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=G"
     }
 ]
