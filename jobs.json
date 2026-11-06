@@ -1,72 +1,72 @@
 [
     {
-        "title": "Full Stack Engineer",
-        "company": "Tilla Technologies",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/tilla-technologies/full-stack-engineer-berlin-473243",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
+        "title": "AI & Automation Lead (f/m/x)",
+        "company": "Lemon Markets",
+        "location": "Remote (Berlin (Hybrid))",
+        "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/ai-automation-lead-berlin-326639",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
     },
     {
-        "title": "(Senior) QA Engineer",
-        "company": "Tilla Technologies",
-        "location": "Remote (Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/tilla-technologies/senior-qa-engineer-berlin-41727",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=T"
+        "title": "Product Manager - Investing (f/m/x)",
+        "company": "Lemon Markets",
+        "location": "Remote (Germany  (Hybrid))",
+        "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/product-manager-investing-berlin-486201",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
     },
     {
-        "title": "Financemanagement Specialist - Fintech (m/w/d) - Germany",
-        "company": "Pennylane De",
-        "location": "Remote (Germany (remote))",
-        "url": "https://www.arbeitnow.com/jobs/companies/pennylane-de/remote-financemanagement-specialist-fintech-germany-51816",
+        "title": "First Line Manager (all genders)",
+        "company": "Lio",
+        "location": "Remote (Munich Office)",
+        "url": "https://www.arbeitnow.com/jobs/companies/lio/first-line-manager-all-genders-munich-349926",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
+    },
+    {
+        "title": "Director Sales (all genders)",
+        "company": "Lio",
+        "location": "Remote (Munich Office)",
+        "url": "https://www.arbeitnow.com/jobs/companies/lio/director-sales-all-genders-munich-6556",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=L"
+    },
+    {
+        "title": "Head of Data Science",
+        "company": "Peec AI",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/head-of-data-science-berlin-119191",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
     },
     {
-        "title": "Buchhalter*in Fintech (m/w/d) - Germany",
-        "company": "Pennylane De",
-        "location": "Remote (Germany (remote))",
-        "url": "https://www.arbeitnow.com/jobs/companies/pennylane-de/remote-buchhalterin-fintech-germany-150806",
+        "title": "Growth Engineer",
+        "company": "Peec AI",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/growth-engineer-berlin-360504",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
     },
     {
-        "title": "Data Analyst - Finance",
-        "company": "Emma \u2013 The Sleep Company",
-        "location": "Remote (Frankfurt)",
-        "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/data-analyst-finance-frankfurt-168424",
+        "title": "Sales Development Representative",
+        "company": "Peec AI",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/sales-development-representative-berlin-248583",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
+    },
+    {
+        "title": "Senior Property Manager (m/f/d)",
+        "company": "Buena",
+        "location": "Remote (Berlin)",
+        "url": "https://www.arbeitnow.com/jobs/companies/buena/senior-property-manager-berlin-10358",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=B"
+    },
+    {
+        "title": "Medizinische Fachangestellte (m/w/d)",
+        "company": "PraxisEins",
+        "location": "Remote (Linden Dahlhausen)",
+        "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/medizinische-fachangestellte-bochum-dahlhausen-289296",
+        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=P"
+    },
+    {
+        "title": "Endear - Product Designer",
+        "company": "Eleve Talent",
+        "location": "Remote (Remote)",
+        "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-79201",
         "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=E"
-    },
-    {
-        "title": "Senior Data Analyst, Lifecycle",
-        "company": "Finom",
-        "location": "Remote (Germany)",
-        "url": "https://www.arbeitnow.com/jobs/companies/finom/senior-data-analyst-lifecycle-germany-124714",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=F"
-    },
-    {
-        "title": "Enterprise Account Executive",
-        "company": "Elastic",
-        "location": "Remote ()",
-        "url": "https://www.arbeitnow.com/jobs/companies/elastic/enterprise-account-executive-464005",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=E"
-    },
-    {
-        "title": "Electrical Senior Authorised Person | Germany",
-        "company": "Kirbygroupengineering",
-        "location": "Remote ()",
-        "url": "https://www.arbeitnow.com/jobs/companies/kirbygroupengineering/electrical-senior-authorised-person-germany-283058",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=K"
-    },
-    {
-        "title": "Major Account Executive",
-        "company": "Digicert",
-        "location": "Remote (Munich)",
-        "url": "https://www.arbeitnow.com/jobs/companies/digicert/major-account-executive-munich-194510",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=D"
-    },
-    {
-        "title": "Junior Account Executive SMB | DACH Market (m/w/d)",
-        "company": "Superchat",
-        "location": "Remote (Berlin, Berlin)",
-        "url": "https://www.arbeitnow.com/jobs/companies/superchat/junior-account-executive-smb-dach-market-berlin-berlin-421539",
-        "logo": "https://via.placeholder.com/50/1e293b/38bdf8?text=S"
     }
 ]
